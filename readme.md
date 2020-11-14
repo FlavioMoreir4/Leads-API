@@ -1,4 +1,4 @@
-## Running the API
+## Executando a API
 
 É muito simples colocar a API em funcionamento. Primeiro, crie o banco de dados e adicione-os ao arquivo `.env`.
 
